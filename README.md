@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-I'm an full-stack developer
+I'm a Full-stack Developer
 ---
 
 ### Languages and Tools
